@@ -129,7 +129,7 @@
     <comment>AnErrorOccuredWhenGeneratingTheExpressionD description</comment>
   </data>
   <data name="AtSpace" xml:space="preserve">
-    <value>At </value>
+    <value> at </value>
     <comment>At description</comment>
   </data>
   <data name="EveryMinuteBetweenX0AndX1" xml:space="preserve">
@@ -137,7 +137,7 @@
     <comment>EveryMinuteBetweenX0AndX1 description</comment>
   </data>
   <data name="At" xml:space="preserve">
-    <value>At</value>
+    <value> at</value>
     <comment>At description</comment>
   </data>
   <data name="SpaceAnd" xml:space="preserve">
@@ -157,7 +157,7 @@
     <comment>SecondsX0ThroughX1PastTheMinute description</comment>
   </data>
   <data name="AtX0SecondsPastTheMinute" xml:space="preserve">
-    <value>at {0} seconds past the minute</value>
+    <value> at {0} seconds past the minute</value>
     <comment>AtX0SecondsPastTheMinute description</comment>
   </data>
   <data name="EveryX0Minutes" xml:space="preserve">
@@ -169,7 +169,7 @@
     <comment>MinutesX0ThroughX1PastTheHour description</comment>
   </data>
   <data name="AtX0MinutesPastTheHour" xml:space="preserve">
-    <value>at {0} minutes past the hour</value>
+    <value> at {0} minutes past the hour</value>
     <comment>AtX0MinutesPastTheHour description</comment>
   </data>
   <data name="EveryX0Hours" xml:space="preserve">
@@ -181,11 +181,11 @@
     <comment>BetweenX0AndX1 description</comment>
   </data>
   <data name="AtX0" xml:space="preserve">
-    <value>at {0}</value>
+    <value> at {0}</value>
     <comment>AtX0 description</comment>
   </data>
   <data name="ComaEveryDay" xml:space="preserve">
-    <value>, every day</value>
+    <value>Daily</value>
     <comment>ComaEveryDay description</comment>
   </data>
   <data name="ComaEveryX0DaysOfTheWeek" xml:space="preserve">
@@ -229,7 +229,7 @@
     <comment>OnTheLastX0OfTheMonth description</comment>
   </data>
   <data name="ComaOnlyOnX0" xml:space="preserve">
-    <value>, only on {0}</value>
+    <value> {0}s</value>
     <comment>OnlyOnX0 description</comment>
   </data>
   <data name="ComaEveryX0Months" xml:space="preserve">

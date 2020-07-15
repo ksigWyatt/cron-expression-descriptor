@@ -19,6 +19,8 @@ namespace Demo
       //builder.Services.AddSingleton(new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
       builder.Services.AddLocalization();
 
+      GetDescription("");
+
       var host = builder.Build();
 
       // Set the culture by using the "locale" querystring
